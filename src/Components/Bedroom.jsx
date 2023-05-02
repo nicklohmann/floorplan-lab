@@ -1,3 +1,4 @@
+import '../App.css'
 function Bedroom(props) {
   return (
     <div>

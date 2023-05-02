@@ -1,3 +1,4 @@
+import '../App.css'
 function Bath(props) {
   return (
     <div>

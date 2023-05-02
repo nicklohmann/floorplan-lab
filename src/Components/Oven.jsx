@@ -1,3 +1,4 @@
+import '../App.css'
 function Oven(props) {
   return (
     <div>

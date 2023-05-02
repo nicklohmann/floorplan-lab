@@ -1,7 +1,18 @@
+import Bedroom from "./Bedroom";
+import Kitchen from "./Kitchen";
+import LivingRoom from "./LivingRoom";
+import Bath from "./Bath";
+import '../App.css'
 function Floorplan(props) {
   return (
     <div>
-      <h1>Floorplan</h1>
+      <Kitchen />
+      <LivingRoom />
+      <Bedroom />
+      <Bedroom />
+      <Bedroom />
+      <Bath />
+      <Bath />
     </div>
   );
 }

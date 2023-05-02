@@ -1,3 +1,4 @@
+import '../App.css'
 function LivingRoom(props) {
   return (
     <div>
