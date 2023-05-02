@@ -2,7 +2,7 @@ import '../App.css'
 function Bath(props) {
   return (
     <div>
-      <h1>Bath</h1>
+      <h1>{props.size}Bath</h1>
     </div>
   );
 }

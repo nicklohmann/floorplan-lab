@@ -2,7 +2,7 @@ import '../App.css'
 function Bedroom(props) {
   return (
     <div>
-      <h1>Bedroom</h1>
+      <h1>Bedroom {props.bedNum}</h1>
     </div>
   );
 }
