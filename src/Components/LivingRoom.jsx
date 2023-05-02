@@ -2,7 +2,7 @@ import '../App.css'
 function LivingRoom(props) {
   return (
     <div>
-      <h1>LivingRoom</h1>
+      Living Room
     </div>
   );
 }

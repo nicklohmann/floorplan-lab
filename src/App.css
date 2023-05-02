@@ -4,6 +4,11 @@
   padding: 2rem;
   text-align: center;
 }
+div {
+  border: 1px solid grey;
+  margin: 5px;
+  padding: 5px;
+}
 
 .logo {
   height: 6em;
@@ -41,8 +46,3 @@
   color: #888;
 }
 
-div {
-  border: 1px solid grey;
-  margin: 5px;
-  padding: 5px;
-}
